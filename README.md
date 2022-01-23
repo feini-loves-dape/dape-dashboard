@@ -1,4 +1,4 @@
-![](#)
+![](https://github.com/feini-loves-dape/dape-dashboard/blob/main/images/dape_banner.png?raw=true)
 
 # DAPE NFT Dashboard
 Build a dashboard to track twitter follower and opensea floor prices of your favorite nft projects
