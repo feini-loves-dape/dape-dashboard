@@ -18,7 +18,7 @@ Edit php\includes\functions.php and enter your Bearer Token for the Twitter API.
 
 Setup a cronjob on the files php/php_cronjob_opensea.php and php/php_cronjob_twitter.php.
 
-Install Grafana (i installed it on a raspberry pi) and add your DB in Configuration->Data sources.
+Install Grafana (i installed it on a raspberry pi, but you can also easily install it on a windows machine) and add your DB in Configuration->Data sources.
 
 Launch Grafana and import the dashboard i prepared for you grafana\Grafana_NFTDashboard.json.
 
